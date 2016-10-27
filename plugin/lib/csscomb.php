@@ -50,6 +50,7 @@ class csscomb{
     $mode = 'properties',
 
     $default_sort_order = '[
+        "composes",
         "position",
         "top",
         "right",
